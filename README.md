@@ -1,2 +1,5 @@
-# Neural_Networks_e_Deep_Learning.
-Algoritmos simples de Redes Neurais e Deep Learning
+# Pratica de Neural Networks e Deep Learning.
+
+Rede Neural na Prática,
+Deep Learning,
+Deep Learning II
